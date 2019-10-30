@@ -1,7 +1,7 @@
 body {
   background-color: #f9f7f7;
   color: #112d4e;
-  font-family: "Georgia";
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 18px;
   margin: 5% 5% 5% 5%;
   text-align: justify;
@@ -23,6 +23,9 @@ h1 {
 
 h3 {
   color: #3f72af;
+}
+
+table {
 }
 
 /************Classes************/
